@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://piyush-sinroja.github.io/sitemap.xml
